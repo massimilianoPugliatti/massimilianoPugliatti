@@ -50,7 +50,7 @@ Attualmente ricopro il ruolo di **Technical Android Lead Instructor** presso **E
 ---
 
 ## 📫 Contatti
-* **LinkedIn:** [linkedin.com/in/massimiliano-pugliatti](https://www.linkedin.com/in/tuo-profilo)
+* **LinkedIn:** [linkedin.com/in/massimiliano-pugliatti](https://www.linkedin.com/in/massimiliano-pugliatti)
 * **Email:** massimilianopugliatti1@gmail.com
 
 ---
