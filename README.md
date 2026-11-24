@@ -41,7 +41,7 @@ App Android nativa per consultare le ultime notizie tramite NewsAPI, costruita c
 * Progettazione di versionamento e **CI/CD** con Gitea Actions e Docker, con deploy automatico, backup e rollback.
 
 ## 👨‍🏫 Leadership & Mentoring
-Fino a gennaio 2026 sono stato **Technical Android Lead Instructor** presso **ELIS** (Roma).
+Fino a gennaio 2026 sono stato **Technical Android Instructor** presso **ELIS** (Roma).
 * Ho guidato lo sviluppo professionale di nuovi developer Android.
 * Ho definito standard di qualità, condotto code review e insegnato i principi SOLID e la Clean Architecture.
 
