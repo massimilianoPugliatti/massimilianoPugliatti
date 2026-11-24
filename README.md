@@ -62,6 +62,7 @@ Fino a gennaio 2026 sono stato **Technical Android Instructor** presso **ELIS** 
 * ☁️ **Microsoft Certified: Azure Developer Associate** (AZ-204)
 * 🏆 **Oracle Certified Professional:** Java SE 17 Developer
 * ☁️ **OCI Foundations Associate** (Oracle Cloud Infrastructure)
+* * 🏆 **Oracle Certified Associate:** Java SE 8 Programmer
 
 ---
 
