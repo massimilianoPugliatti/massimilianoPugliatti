@@ -1,7 +1,7 @@
 # Ciao, sono Massimiliano Pugliatti 👋
-### Senior Android Developer | Technical Instructor | Java SE 17 Certified
+### Android Developer | Technical Instructor | Java SE 17 Certified
 
-Sono un **SMobile Developer** con una forte passione per le architetture pulite, la scalabilità del codice e l'innovazione tecnologica. La mia esperienza spazia dallo sviluppo di soluzioni native ad alte prestazioni al mentoring di nuovi talenti nel settore mobile.
+Sono un **Mobile Developer** con una forte passione per le architetture pulite, la scalabilità del codice e l'innovazione tecnologica. La mia esperienza spazia dallo sviluppo di soluzioni native ad alte prestazioni al mentoring di nuovi talenti nel settore mobile.
 
 ---
 
